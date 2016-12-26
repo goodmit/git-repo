@@ -1,0 +1,2 @@
+print("GoodBye all")
+print("GoodBye World!")
